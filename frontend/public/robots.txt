@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /s/
+Disallow: /dashboard/
+Disallow: /admin/
+Disallow: /api/
+
+Sitemap: https://aicommerceos.id/sitemap.xml
