@@ -123,7 +123,7 @@ export default function UpgradePage() {
             <button
               onClick={() => {
                 const msg = `Halo Admin AI Commerce OS!\n\nSaya ingin upgrade ke Plan Pro.\n\nEmail: ${session?.user.email}\nToko: ${session?.user.store_name}\n\nMohon informasi cara pembayarannya. Terima kasih!`;
-                window.open(`https://wa.me/6281234567890?text=${encodeURIComponent(msg)}`, '_blank');
+                window.open(`https://wa.me/6283879527517?text=${encodeURIComponent(msg)}`, '_blank');
               }}
               className="btn-wa btn w-full justify-center"
             >
